@@ -13653,11 +13653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ECM203\\Desktop\\SistemaGeonet\\SistemaGeonet.csproj",
+      "projectUniqueName": "C:\\Users\\ECM203\\Source\\Repos\\HansSimbala\\GeonetEcommerce\\SistemaGeonet\\SistemaGeonet.csproj",
       "projectName": "SistemaGeonet",
-      "projectPath": "C:\\Users\\ECM203\\Desktop\\SistemaGeonet\\SistemaGeonet.csproj",
+      "projectPath": "C:\\Users\\ECM203\\Source\\Repos\\HansSimbala\\GeonetEcommerce\\SistemaGeonet\\SistemaGeonet.csproj",
       "packagesPath": "C:\\Users\\ECM203\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ECM203\\Desktop\\SistemaGeonet\\obj\\",
+      "outputPath": "C:\\Users\\ECM203\\Source\\Repos\\HansSimbala\\GeonetEcommerce\\SistemaGeonet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
