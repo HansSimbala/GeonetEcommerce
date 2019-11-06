@@ -1,0 +1,15 @@
+C:\Users\ECM203\Desktop\SistemaGeonet\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\ECM203\Desktop\SistemaGeonet\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\ECM203\Desktop\SistemaGeonet\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\ECM203\Desktop\SistemaGeonet\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\ECM203\Desktop\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.deps.json
+C:\Users\ECM203\Desktop\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.runtimeconfig.json
+C:\Users\ECM203\Desktop\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.runtimeconfig.dev.json
+C:\Users\ECM203\Desktop\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.dll
+C:\Users\ECM203\Desktop\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.pdb
+C:\Users\ECM203\Desktop\SistemaGeonet\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ECM203\Desktop\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.AssemblyInfoInputs.cache
+C:\Users\ECM203\Desktop\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.AssemblyInfo.cs
+C:\Users\ECM203\Desktop\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.dll
+C:\Users\ECM203\Desktop\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.pdb
+C:\Users\ECM203\Desktop\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.csprojAssemblyReference.cache
